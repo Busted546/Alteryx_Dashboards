@@ -1,5 +1,6 @@
 # Project: NYC Neighborhood Sales and Prices Dashboard
-![Screenshot 2025-04-23 174449](https://github.com/user-attachments/assets/c36563a7-3cf5-453b-ad03-c637edf4e9d1)
+![Workflow screenshot](https://github.com/user-attachments/assets/7071caf9-14c8-45a7-97b8-11e87df88719)
+
 
 
 

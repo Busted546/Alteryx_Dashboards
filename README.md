@@ -12,9 +12,8 @@ The Alteryx Designer tool is the core application used to build workflows, and i
 
 # Workflow Projects
 This repository contains the following Alteryx workflow projects:
-
-
-
+- [Project 1: NYC Neighborhood Sales and Prices Dashboard](https://github.com/Busted546/Alteryx_Workflows/tree/main/Project%201%3A%20NYC%20Neighborhood%20Sales%20and%20Prices%20Dashboard) - A dashboard that displays NYC real estate data, including neighborhood-wise average sales prices, transaction counts, and borough-level comparisons.
+- 
 Each project folder includes a README.md file with details on the business use case, data sources, tools used within the workflow, and screenshots where applicable.
 
 
